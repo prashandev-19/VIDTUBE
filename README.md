@@ -34,3 +34,5 @@ This is a YOUTUBE + TWITTER backend project that covers allmost the functionalit
 + Express.js
 + MongoDB
 + Cloudinary (must have an account)
+## License
+This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
